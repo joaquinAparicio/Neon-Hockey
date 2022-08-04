@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=disco
+comment0.text=\n\ Write\ a\ description\ of\ class\ disco\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=player1\ player2\ mundo
+comment1.target=disco(jugador1,\ jugador2,\ mapa)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveAround()
+comment4.params=
+comment4.target=void\ bounce()
+comment5.params=
+comment5.target=void\ rebotaRebota()
+numComments=6
